@@ -110,3 +110,45 @@ If the destination folder does not exist, the script creates it automatically be
 The completed execution after all files have been successfully copied.
 
 ![Backup Execution](screenshots/backup-script-execution.png)
+
+## Memory Usage Monitor
+
+### What It Does
+
+This script monitors system memory usage and alerts the user when memory utilization exceeds a predefined threshold.
+
+### Concepts Used
+
+- Get-CimInstance
+- Variables
+- If Statements
+- Memory Calculations
+- Conditional Logic
+
+---
+
+## Source Code
+
+- [memory-usage-monitor.ps1](memory-usage-monitor.ps1)
+
+---
+
+## Screenshots
+
+### Memory Monitor Script
+
+The script retrieves current system memory information, calculates RAM utilization, and compares it against a predefined threshold.
+
+![Memory Monitor Script](screenshots/memory-monitor-script.png)
+
+**Result:** The script calculates current memory utilization and evaluates whether usage exceeds the configured threshold.
+
+---
+
+### Successful Execution
+
+The script executes successfully and reports the current memory usage along with the appropriate status message.
+
+![Memory Monitor Output](screenshots/memory-monitor-output.png)
+
+**Result:** Memory usage is successfully retrieved and displayed after the script completes execution.
