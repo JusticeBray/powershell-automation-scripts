@@ -1,5 +1,17 @@
 # PowerShell Automation Scripts
 
+**Status:** Complete
+
+**Platform:** Windows 11
+
+**Language:** PowerShell
+
+**Focus:** Windows Administration & Automation
+
+---
+
+# PowerShell Automation Scripts
+
 ## Overview
 
 This repository contains two PowerShell scripts I wrote while learning Windows administration and automation. The goal of these projects was to automate common administrative tasks using PowerShell and gain experience working with Windows scripting.
