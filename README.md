@@ -66,3 +66,35 @@ The repository includes screenshots showing both scripts running successfully.
 ## What I Learned
 
 This project gave me hands-on experience writing PowerShell scripts for Windows administration. I learned how to automate repetitive tasks, work with common PowerShell cmdlets, and troubleshoot scripting issues while building and testing each script.
+
+## Screenshots
+
+### Backup Script
+
+This script automates file backups by copying files from a source directory to a backup location.
+
+![Backup Script](screenshots/backup-script.png)
+
+---
+
+### Script Breakdown
+
+The script uses PowerShell variables, loops, and file system cmdlets to automate the backup process.
+
+![Script Breakdown](screenshots/backup-script-breakdown.png)
+
+---
+
+### Backup Folder Creation
+
+If the destination folder does not exist, the script creates it automatically before copying files.
+
+![Backup Folder](screenshots/backup-folder-created.png)
+
+---
+
+### Successful Execution
+
+The completed execution after all files have been successfully copied.
+
+![Backup Execution](screenshots/backup-script-execution.png)
