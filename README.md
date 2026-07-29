@@ -1,7 +1,5 @@
 # PowerShell Automation Scripts
 
-**Status:** Complete
-
 **Platform:** Windows 11
 
 **Language:** PowerShell
