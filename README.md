@@ -38,6 +38,12 @@ This repository contains two PowerShell scripts I wrote while learning Windows a
 
 # Backup Script
 
+## Source Code
+
+The complete PowerShell script is available below:
+
+- [backup-automation.ps1](backup-automation.ps1)
+
 ## What It Does
 
 This script automatically copies files from a source folder to a backup folder. If the destination folder doesn't exist, it creates one before copying the files.
