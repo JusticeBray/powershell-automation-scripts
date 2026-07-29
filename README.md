@@ -73,7 +73,9 @@ This project gave me hands-on experience writing PowerShell scripts for Windows 
 
 This script automates file backups by copying files from a source directory to a backup location.
 
-![Backup Script](screenshots/backup-script.png)
+<p align="center">
+  <img src="screenshots/backup-script.png" width="800">
+</p>
 
 ---
 
